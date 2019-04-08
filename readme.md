@@ -12,7 +12,7 @@ This is an Alfred Workflow which will do these things autoly:
 2. click download link, download will start and the newly created chrome page will be closed autoly
 
 ## First-Time Deployment
-0. Have Alfred PowerPack, latest Chrome and 百度网盘 installed
+0. Have Alfred PowerPack, latest Chrome, Node and 百度网盘 installed
 1. Download the [BaiduPan.alfredworkflow](https://raw.githubusercontent.com/nendonerd/baiduyunHelper/master/BaiduPan.alfredworkflow)
 2. Double click it to add it to Alfred Workflow
 3. Ctrl+Space to invoke Alfred, and enter> `pan <baiduyunLink>` e.g. `pan 链接: https://pan.baidu.com/s/1ZFT_AAEAEArG0O22hfKUYQ 提取码: 6ytc 复制这段内容后打开百度网盘手机App，操作更方便哦`
